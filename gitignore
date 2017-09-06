@@ -1,2 +1,2 @@
 *.log
-/metastore_db/*
+metastore_db/
